@@ -1,0 +1,9 @@
+docker/logs
+docker/dags/__pycache__
+docker/plugins/operators/__pycache__
+*.cfg
+.DS_Store
+.venv
+logs/*
+docker/dags/logs/
+docker/*.env
